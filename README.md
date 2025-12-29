@@ -15,7 +15,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Project</h2>  
   <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     <li><a href="https://github.com/UMC-Edison/Edison-Server">Edison</a> - 유사한 메모 자동 분류 및 시각화 서비스 (2024.12 ~ Now)</li>
-    <li><a href="https://github.com/Genieary/Genieary-BE">Genieary</a> - 얼굴 분석 기반 자기 이해 다이어리 웹 서비스 (2025.03 ~ Now)</li>
+    <li><a href="https://github.com/Genieary/Genieary-BE">Genieary</a> - 얼굴 분석 기반 자기 이해 다이어리 웹 서비스 (2025.03 ~ 2025.12.30)</li>
     <li><a href="https://github.com/TeamY-Hackathon-UMC7th/TeamY-BE">Last Coffee</a> - 카페인 분해 속도 계산을 통한 맞춤 음료 추천 서비스 (2025.01)</li>
     <li><a href="https://github.com/gdg-hongik-univ/EcoNet-F1T4-server">EcoNet</a> - 특수 폐기물 배출 위치 안내 환경 보호 커뮤니티 (2024.07 ~ 2024.08)</li>
   </ul>
