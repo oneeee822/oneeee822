@@ -8,8 +8,9 @@
     <li><a href="https://github.com/gdg-hongik-univ">GDSC</a> (Google Developer Student Clubs) Project Track, 2nd (2024.05 ~ 2024.08)</li>
     <li><a href="https://github.com/HIUMC">UMC</a> (University MakeUs Challenge), 7th (2024.09 ~ 2025.02)</li>
     <li><a href="https://github.com/HIUMC">UMC</a> (University MakeUs Challenge), 8th, Server Team Leader (2025.03 ~ 2025.08)</li>
-    <li><a href="https://awscloudclubs.kr/">AWS Cloud Club Hongik</a>, 1st, 2nd, 3rd (2024.09 ~ 2025.12)</li>
-    <li>Advanced Java Programming Course, Technische Universität Berlin (2025.07 ~ 2025.08)</li>
+    <li><a href="https://awscloudclubs.kr/">AWS Cloud Club Hongik</a> 1st, 2nd, 3rd (2024.09 ~ 2025.12)</li>
+    <li>Advanced Java Programming Course, <a href="https://www.tu.berlin/">Technische Universität Berlin</a> (2025.07 ~ 2025.08)</li>
+    <li><a href="https://awscloudclubs.kr/">AISW Maestro</a> 17th (2026.04 ~ Now)</li> 
   </ul>
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Project</h2>  
